@@ -10,9 +10,11 @@
 	- boruta.ipynb
 - [Handling Imbalanced Datasets SMOTE Technique](https://www.youtube.com/watch?v=dkXB8HH_4-k&ab_channel=DataMites)[X]
 	- imbalance_dataset_smote.ipynb
-- [Machine Learning: introdução a classificação com SKLearn](https://cursos.alura.com.br/course/machine-learning-introducao-a-classificacao-com-sklearn) []
+- [Machine Learning: introdução a classificação com SKLearn](https://cursos.alura.com.br/course/machine-learning-introducao-a-classificacao-com-sklearn) [X]
 	- introducao_classificacao_ml_1.ipynb
 	- introducao_classificacao_ml_2.ipynb
+	- introducao_classificacao_ml_3.ipynb
+	- introducao_classificacao_ml_4.ipynb
 - [Visão Computacional: reconhecimento de texto com OCR e OpenCV](https://cursos.alura.com.br/course/visao-computacional-reconhecimento-texto-ocr-opencv)[X]
 	- texto_ocr_opencv.ipynb
 	- desafio_orc.ipynb
