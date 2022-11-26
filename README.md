@@ -17,4 +17,6 @@
 	- introducao_classificacao_ml_4.ipynb
 - [X] [Machine Learning: classificação por trás dos panos](https://cursos.alura.com.br/course/machine-learning-classificacao-tras-panos)
 	- ml_classificacao_por_de_tras_dos_panos.ipynb
+- [X] [Machine Learning: validação de modelos](https://cursos.alura.com.br/course/machine-learning-validando-modelos)
+	- ml_validacao_1.ipynb
 - [] [Regressão: implemente uma rede neural com numpy](https://cursos.alura.com.br/course/rede-neural-numpy)
