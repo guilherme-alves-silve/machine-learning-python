@@ -19,4 +19,6 @@
 	- ml_classificacao_por_de_tras_dos_panos.ipynb
 - [X] [Machine Learning: validação de modelos](https://cursos.alura.com.br/course/machine-learning-validando-modelos)
 	- ml_validacao_1.ipynb
+- [X] [Análise de série temporal: COVID-19](https://cursos.alura.com.br/course/analise-serie-temporal-covid-19)
+	- analise_serie_temporal_covid_19.ipynb
 - [] [Regressão: implemente uma rede neural com numpy](https://cursos.alura.com.br/course/rede-neural-numpy)
