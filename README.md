@@ -21,4 +21,9 @@
 	- ml_validacao_1.ipynb
 - [X] [Análise de série temporal: COVID-19](https://cursos.alura.com.br/course/analise-serie-temporal-covid-19)
 	- analise_serie_temporal_covid_19.ipynb
-- [] [Regressão: implemente uma rede neural com numpy](https://cursos.alura.com.br/course/rede-neural-numpy)
+- [ ] [Linguagem Natural parte 1: NLP com análise de sentimento](https://cursos.alura.com.br/course/introducao-a-nlp-com-analise-de-sentimento)
+- [ ] [Linguagem Natural parte 2: continuando com a análise de sentimento](https://cursos.alura.com.br/course/nlp-com-analise-de-sentimento)
+- [ ] [Corretor Ortográfico em Python: aplicando técnicas de NLP](https://cursos.alura.com.br/course/nlp-corretor-ortografico)
+- [ ] [NLP: regex e modelos de linguagem](https://cursos.alura.com.br/course/nlp-modelos-linguagem)
+- [ ] [Word2Vec: interpretação da linguagem humana com Word embedding](https://cursos.alura.com.br/course/introducao-word-embedding)
+- [ ] [Word2Vec: treinamento de Word Embedding](https://cursos.alura.com.br/course/word2vec-treinamento-word-embedding)
