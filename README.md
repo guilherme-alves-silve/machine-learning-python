@@ -27,8 +27,8 @@
 	- ml_linguagem_natural_2.ipynb
 - [X] [Corretor Ortográfico em Python: aplicando técnicas de NLP](https://cursos.alura.com.br/course/nlp-corretor-ortografico)
 	- corretor_nlp.ipynb
-- [ ] [NLP: regex e modelos de linguagem](https://cursos.alura.com.br/course/nlp-modelos-linguagem)
-	- .ipynb
+- [X] [NLP: regex e modelos de linguagem](https://cursos.alura.com.br/course/nlp-modelos-linguagem)
+	- detector-idiomas-nlp.ipynb
 - [ ] [Word2Vec: interpretação da linguagem humana com Word embedding](https://cursos.alura.com.br/course/introducao-word-embedding)
 	- .ipynb
 - [ ] [Word2Vec: treinamento de Word Embedding](https://cursos.alura.com.br/course/word2vec-treinamento-word-embedding)
