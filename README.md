@@ -29,7 +29,7 @@
 	- corretor_nlp.ipynb
 - [X] [NLP: regex e modelos de linguagem](https://cursos.alura.com.br/course/nlp-modelos-linguagem)
 	- detector-idiomas-nlp.ipynb
-- [ ] [Word2Vec: interpretação da linguagem humana com Word embedding](https://cursos.alura.com.br/course/introducao-word-embedding)
-	- .ipynb
+- [X] [Word2Vec: interpretação da linguagem humana com Word embedding](https://cursos.alura.com.br/course/introducao-word-embedding)
+	- curso_word2vec_1.ipynb
 - [ ] [Word2Vec: treinamento de Word Embedding](https://cursos.alura.com.br/course/word2vec-treinamento-word-embedding)
 	- .ipynb
