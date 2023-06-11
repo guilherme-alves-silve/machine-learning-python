@@ -31,5 +31,8 @@
 	- detector-idiomas-nlp.ipynb
 - [X] [Word2Vec: interpretação da linguagem humana com Word embedding](https://cursos.alura.com.br/course/introducao-word-embedding)
 	- curso_word2vec_1.ipynb
-- [ ] [Word2Vec: treinamento de Word Embedding](https://cursos.alura.com.br/course/word2vec-treinamento-word-embedding)
-	- .ipynb
+- [X] [Word2Vec: treinamento de Word Embedding](https://cursos.alura.com.br/course/word2vec-treinamento-word-embedding)
+	- curso_word2vec_2.ipynb
+	- classificador_de_artigos/
+		* python3 app.py
+		* localhost:5000
