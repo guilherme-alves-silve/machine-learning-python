@@ -36,8 +36,8 @@
 	- classificador_de_artigos/
 		* python3 app.py
 		* localhost:5000
-- [ ] [Clusterização de dados: segmentação de clientes](https://cursos.alura.com.br/course/clusterizacao-dados-segmentacao-clientes)
-	- .ipynb
+- [X] [Clusterização de dados: segmentação de clientes](https://cursos.alura.com.br/course/clusterizacao-dados-segmentacao-clientes)
+	- clusterizacao_clientes_rfm_ml.ipynb
 - [ ] [Machine Learning: Aprendizado supervisionado](https://cursos.alura.com.br/course/machine-learning-aprendizado-supervisionado)
 	- .ipynb
 - [ ] [Classificação multilabel de textos: múltiplos contextos em NLP](https://cursos.alura.com.br/course/classificacao-multilabel-nlp)
