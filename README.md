@@ -67,6 +67,7 @@
 
 ## Reinforcement Learning
 
+- [ ] [Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake](https://www.youtube.com/watch?v=L8ypSXwyBds)
 - [ ] [Reinforcement Learning in 3 Hours | Full Course using Python](https://www.youtube.com/watch?v=Mut_u40Sqz4)
 	- .ipynb
 - [ ] [Reinforcement Learning Course - Full Machine Learning Tutorial](https://www.youtube.com/watch?v=ELE2_Mftqoc)
