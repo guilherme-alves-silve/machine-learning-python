@@ -62,13 +62,22 @@
 	- [nlp/classificador_de_artigos/](nlp/classificador_de_artigos/)
 		* python3 app.py
 		* localhost:5000
+- [ ] [Markov Chains](https://www.youtube.com/watch?v=E4WcBWuQQws)
+  - [X] [Markov Chains Clearly Explained! Part - 1](https://www.youtube.com/watch?v=i3AkTO9HLXo)
+  - [X] [Markov Chains: Recurrence, Irreducibility, Classes | Part - 2](https://www.youtube.com/watch?v=VNHeFp6zXKU)
+  - [X] [Markov Chains: n-step Transition Matrix | Part - 3](https://www.youtube.com/watch?v=Zo3ieESzr4E)
+  - [X] [Markov Chains: Generating Sherlock Holmes Stories | Part - 4](https://www.youtube.com/watch?v=E4WcBWuQQws)
+  - [ ] [Hidden Markov Model Clearly Explained! Part - 5](https://www.youtube.com/watch?v=RWkHJnFj5rY)
+  - [ ] [Forward Algorithm Clearly Explained | Hidden Markov Model | Part - 6](https://www.youtube.com/watch?v=9-sPm4CfcD0)
+  - [ ] [Markov Chains: Simulation in Python | Stationary Distribution Computation | Part - 7](https://www.youtube.com/watch?v=G7FIQ9fXl6U)
 - [ ] [Classificação multilabel de textos: múltiplos contextos em NLP](https://cursos.alura.com.br/course/classificacao-multilabel-nlp)
 	- [nlp/classificacao_multi_label_nlp.ipynb](nlp/classificacao_multi_label_nlp.ipynb)
 
 ## Reinforcement Learning
 
+- [ ] [Value Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 9)](https://www.youtube.com/watch?v=hUqeGLkx_zs)
+- [ ] [Policy Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 10)](https://www.youtube.com/watch?v=RlugupBiC6w)
 - [ ] [Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake](https://www.youtube.com/watch?v=L8ypSXwyBds)
-- [ ] [Reinforcement Learning in 3 Hours | Full Course using Python](https://www.youtube.com/watch?v=Mut_u40Sqz4)
-	- .ipynb
-- [ ] [Reinforcement Learning Course - Full Machine Learning Tutorial](https://www.youtube.com/watch?v=ELE2_Mftqoc)
-	- .ipynb
+- [ ] [Train an AI to Play Super Mario Bros! || Reinforcement Learning Completely from Scratch](https://www.youtube.com/watch?v=_gmQZToTMac)
+- [ ] [Python Reinforcement Learning using Stable baselines. Mario PPO](https://www.youtube.com/watch?v=PxoG0A2QoFs)
+- [ ] [Power Machine Learning using Ray.io and Python. Full Tutorial.](https://www.youtube.com/watch?v=fMiAyj2kgac)
