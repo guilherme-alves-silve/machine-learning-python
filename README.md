@@ -62,14 +62,14 @@
 	- [nlp/classificador_de_artigos/](nlp/classificador_de_artigos/)
 		* python3 app.py
 		* localhost:5000
-- [ ] [Markov Chains](https://www.youtube.com/watch?v=E4WcBWuQQws)
+- [X] [Markov Chains](https://www.youtube.com/watch?v=E4WcBWuQQws)
   - [X] [Markov Chains Clearly Explained! Part - 1](https://www.youtube.com/watch?v=i3AkTO9HLXo)
   - [X] [Markov Chains: Recurrence, Irreducibility, Classes | Part - 2](https://www.youtube.com/watch?v=VNHeFp6zXKU)
   - [X] [Markov Chains: n-step Transition Matrix | Part - 3](https://www.youtube.com/watch?v=Zo3ieESzr4E)
   - [X] [Markov Chains: Generating Sherlock Holmes Stories | Part - 4](https://www.youtube.com/watch?v=E4WcBWuQQws)
-  - [ ] [Hidden Markov Model Clearly Explained! Part - 5](https://www.youtube.com/watch?v=RWkHJnFj5rY)
-  - [ ] [Forward Algorithm Clearly Explained | Hidden Markov Model | Part - 6](https://www.youtube.com/watch?v=9-sPm4CfcD0)
-  - [ ] [Markov Chains: Simulation in Python | Stationary Distribution Computation | Part - 7](https://www.youtube.com/watch?v=G7FIQ9fXl6U)
+  - [X] [Hidden Markov Model Clearly Explained! Part - 5](https://www.youtube.com/watch?v=RWkHJnFj5rY)
+  - [X] [Forward Algorithm Clearly Explained | Hidden Markov Model | Part - 6](https://www.youtube.com/watch?v=9-sPm4CfcD0)
+  - [X] [Markov Chains: Simulation in Python | Stationary Distribution Computation | Part - 7](https://www.youtube.com/watch?v=G7FIQ9fXl6U)
 - [ ] [Classificação multilabel de textos: múltiplos contextos em NLP](https://cursos.alura.com.br/course/classificacao-multilabel-nlp)
 	- [nlp/classificacao_multi_label_nlp.ipynb](nlp/classificacao_multi_label_nlp.ipynb)
 
