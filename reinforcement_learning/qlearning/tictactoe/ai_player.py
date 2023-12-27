@@ -71,3 +71,6 @@ class AIPlayer(Player):
             prev_q = self.get_q(self.board, self.move)
             max_q_new = max([self.get_q(tuple(board), a) for a in self.available_moves(self.board)])
             self.qtable[(self.board, self.move)] = prev_q + self.alpha * (reward + self.gamma * max_q_new - prev_q)
+
+        self.move = None
+        self.board = None

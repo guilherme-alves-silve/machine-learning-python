@@ -76,7 +76,7 @@
 ## Reinforcement Learning
 
 - [X] [Q-Learning implementation (Tic Tac Toe)](https://www.udemy.com/course/introduction-to-machine-learning-in-python)
-- [ ] [Deep Q-Learning implementation (Tic Tac Toe)](https://www.udemy.com/course/introduction-to-machine-learning-in-python)
+- [X] [Deep Q-Learning implementation (Tic Tac Toe)](https://www.udemy.com/course/introduction-to-machine-learning-in-python)
 - [ ] [Value Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 9)](https://www.youtube.com/watch?v=hUqeGLkx_zs)
 - [ ] [Policy Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 10)](https://www.youtube.com/watch?v=RlugupBiC6w)
 - [ ] [Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake](https://www.youtube.com/watch?v=L8ypSXwyBds)
