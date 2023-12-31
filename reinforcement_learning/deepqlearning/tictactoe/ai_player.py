@@ -1,17 +1,15 @@
 import random
-
-import keras.optimizers
 import numpy as np
 
 from typing import Sequence
-from keras.models import Sequential
 from keras.layers import Dense
+from keras.models import Sequential
 from constants import BLANK
 from player import Player
 from player_ticker import PlayerTicker
 
 
-class AIPlayer(Player):
+class DeepAIPlayer(Player):
 
     def __init__(self,
                  epsilon=0.4,
@@ -32,7 +30,7 @@ class AIPlayer(Player):
         self.board = (BLANK,) * 9
         self._player_ticker = player_ticker
 
-    def player_ticker(self) -> str:
+    def ticker(self) -> str:
         return self._player_ticker
 
     @classmethod
@@ -40,7 +38,7 @@ class AIPlayer(Player):
         return [i for i in range(9) if BLANK == board[i]]
 
     def get_q(self, state: Sequence, action):
-        return self.qtable.predict([self._encode_input(state, action)], batch_size=1)
+        return self.qtable.predict([self._encode_input(state, action)], batch_size=1, verbose=0)
 
     def make_move(self, board: list):
         self.board = tuple(board)

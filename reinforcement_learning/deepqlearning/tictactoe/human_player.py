@@ -24,5 +24,5 @@ class HumanPlayer(Player):
             else:
                 return move-1
 
-    def player_ticker(self) -> str:
+    def ticker(self) -> str:
         return self._player_ticker

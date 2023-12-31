@@ -16,6 +16,8 @@ if __name__ == "__main__":
     for epoch in range(TRAINING_EPOCHS):
         game = TicTacToe(ai_player1, ai_player2)
         game.play()
+        if (epoch + 1) % 10 == 0:
+            print(f"Q-Learning epoch: {epoch + 1}/{TRAINING_EPOCHS}")
 
     print("\nTraining is done!")
 

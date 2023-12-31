@@ -17,26 +17,29 @@ class TicTacToe:
 
         first_player_turn = random.choice([True, False])
         player, other_player = self._get_players(first_player_turn)
-        print("Player 1 is %s with symbol %s" % (player.__class__.__name__, player.player_ticker()))
-        print("Player 2 is %s with symbol %s" % (other_player.__class__.__name__, other_player.player_ticker()))
+        print("Player 1 is %s with ticker %s" % (player.__class__.__name__, player.ticker()))
+        print("Player 2 is %s with ticker %s" % (other_player.__class__.__name__, other_player.ticker()))
+        Player.show_board(self.board[:])
+        print()
 
         while True:
             player, other_player = self._get_players(first_player_turn)
-            player_tickers = [player.player_ticker(), other_player.player_ticker()]
+            player_tickers = [player.ticker(), other_player.ticker()]
+            Player.show_board(self.board[:])
+            move = player.make_move(self.board)
+            self.board[move] = player.ticker()
             game_over, winner = self._is_game_over(player_tickers)
 
             if game_over:
-                if winner == player.player_ticker():
+                if winner == player.ticker():
                     self._win_reward(player, other_player)
-                elif winner == other_player.player_ticker():
+                elif winner == other_player.ticker():
                     self._win_reward(other_player, player)
                 else:
                     self._tie_reward(player, other_player)
                 break
 
             first_player_turn = not first_player_turn
-            move = player.make_move(self.board)
-            self.board[move] = player.player_ticker()
 
     def _get_players(self, first_player_turn: bool):
         if first_player_turn:
@@ -54,9 +57,9 @@ class TicTacToe:
         """
         for player_ticker in player_tickers:
             # Horizontal check
-            if (self._board_check(player_ticker, range(0, 3))
-                    or self._board_check(player_ticker, range(3, 6))
-                    or self._board_check(player_ticker, range(6, 9))):
+            if (self._board_check(player_ticker, [0, 1, 2])
+                    or self._board_check(player_ticker, [3, 4, 5])
+                    or self._board_check(player_ticker, [6, 7, 8])):
                 return True, player_ticker
 
             # Vertical check
@@ -81,7 +84,7 @@ class TicTacToe:
     def _win_reward(self, player: Player, other_player: Player):
         Player.show_board(self.board[:])
         player.reward(REWARD_WIN, self.board[:])
-        print("\n%s won!" % player.__class__.__name__)
+        print("\n%s with ticker %s won!" % (player.__class__.__name__, player.ticker()))
         other_player.reward(REWARD_LOSE, self.board[:])
 
     def _tie_reward(self, player: Player, other_player: Player):

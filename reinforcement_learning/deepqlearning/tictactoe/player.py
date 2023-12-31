@@ -6,7 +6,7 @@ class Player:
     def make_move(self, board: list):
         pass
 
-    def player_ticker(self) -> str:
+    def ticker(self) -> str:
         pass
 
     @staticmethod

@@ -77,9 +77,11 @@
 
 - [X] [Q-Learning implementation (Tic Tac Toe)](https://www.udemy.com/course/introduction-to-machine-learning-in-python)
 - [X] [Deep Q-Learning implementation (Tic Tac Toe)](https://www.udemy.com/course/introduction-to-machine-learning-in-python)
+- [ ] [Learn how to use Reinforcement Learning techniques to create practical Artificial Intelligence programs!](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+- [ ] [Deep RL Course](https://huggingface.co/learn/deep-rl-course)
 - [ ] [Value Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 9)](https://www.youtube.com/watch?v=hUqeGLkx_zs)
 - [ ] [Policy Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 10)](https://www.youtube.com/watch?v=RlugupBiC6w)
 - [ ] [Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake](https://www.youtube.com/watch?v=L8ypSXwyBds)
+  - [Python Snake Game With Pygame - Create Your First Pygame Application](https://www.youtube.com/watch?v=--nsd2ZeYvs)
 - [ ] [Train an AI to Play Super Mario Bros! || Reinforcement Learning Completely from Scratch](https://www.youtube.com/watch?v=_gmQZToTMac)
 - [ ] [Python Reinforcement Learning using Stable baselines. Mario PPO](https://www.youtube.com/watch?v=PxoG0A2QoFs)
-- [ ] [Power Machine Learning using Ray.io and Python. Full Tutorial.](https://www.youtube.com/watch?v=fMiAyj2kgac)

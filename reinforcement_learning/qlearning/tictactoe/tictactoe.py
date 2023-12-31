@@ -17,12 +17,16 @@ class TicTacToe:
 
         first_player_turn = random.choice([True, False])
         player, other_player = self._get_players(first_player_turn)
-        print("Player 1 is %s with symbol %s" % (player.__class__.__name__, player.player_ticker()))
-        print("Player 2 is %s with symbol %s" % (other_player.__class__.__name__, other_player.player_ticker()))
+        print("Player 1 is %s with ticker %s turn!" % (player.__class__.__name__, player.player_ticker()))
+        print("Player 2 is %s with ticker %s" % (other_player.__class__.__name__, other_player.player_ticker()))
+        Player.show_board(self.board[:])
+        print()
 
         while True:
             player, other_player = self._get_players(first_player_turn)
             player_tickers = [player.player_ticker(), other_player.player_ticker()]
+            move = player.make_move(self.board)
+            self.board[move] = player.player_ticker()
             game_over, winner = self._is_game_over(player_tickers)
 
             if game_over:
@@ -35,8 +39,6 @@ class TicTacToe:
                 break
 
             first_player_turn = not first_player_turn
-            move = player.make_move(self.board)
-            self.board[move] = player.player_ticker()
 
     def _get_players(self, first_player_turn: bool):
         if first_player_turn:
