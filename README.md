@@ -25,8 +25,10 @@
 	- [mlp/machine_learning_credit_scoring.ipynb](mlp/machine_learning_credit_scoring.ipynb)
 - [X] [Keras Regression](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
 	- [mlp/ann_regression_keras.ipynb](mlp/ann_regression_keras.ipynb)
-- [ ] [Keras Classification](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+- [X] [Keras Classification](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
 	- [mlp/ann_classification_keras.ipynb](mlp/ann_classification_keras.ipynb)
+- [ ] [](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+	-	[]()
 - [ ] [Machine Learning: Aprendizado supervisionado](https://cursos.alura.com.br/course/machine-learning-aprendizado-supervisionado)
 	- .ipynb
 
