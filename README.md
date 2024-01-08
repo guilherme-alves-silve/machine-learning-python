@@ -23,12 +23,12 @@
 
 - [X] [Machine Learning: Credit Scoring](https://cursos.alura.com.br/course/machine-learning-credit-scoring)
 	- [mlp/machine_learning_credit_scoring.ipynb](mlp/machine_learning_credit_scoring.ipynb)
-- [X] [Keras Regression](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+- [X] [Keras Regression (Houses Price)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
 	- [mlp/ann_regression_keras.ipynb](mlp/ann_regression_keras.ipynb)
-- [X] [Keras Classification](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+- [X] [Keras Classification (Cancer)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
 	- [mlp/ann_classification_keras.ipynb](mlp/ann_classification_keras.ipynb)
-- [ ] [](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
-	-	[]()
+- [X] [Keras Classification Exercise (Lending Money)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+	-	[mlp/ann_keras_project_exercise.ipynb](mlp/ann_keras_project_exercise.ipynb)
 - [ ] [Machine Learning: Aprendizado supervisionado](https://cursos.alura.com.br/course/machine-learning-aprendizado-supervisionado)
 	- .ipynb
 
