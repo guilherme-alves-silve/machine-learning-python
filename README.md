@@ -32,6 +32,11 @@
 - [ ] [Machine Learning: Aprendizado supervisionado](https://cursos.alura.com.br/course/machine-learning-aprendizado-supervisionado)
 	- .ipynb
 
+## Convolutional Neural Network
+
+- [X] [Keras CNN MNIST Classification (MNIST Digits)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+	- [cnn/cnn_keras_mnist.ipynb](cnn/keras_cnn_mnist.ipynb)
+
 ## Decision Trees
 
 - [X] [Árvores de Decisão: aprofundando em modelos de Machine Learning](https://cursos.alura.com.br/course/arvores-decisao-aprofundando-modelos-machine-learning)
