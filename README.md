@@ -34,8 +34,10 @@
 
 ## Convolutional Neural Network
 
-- [X] [Keras CNN MNIST Classification (MNIST Digits)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+- [X] [Keras CNN MNIST Digits Classification)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
 	- [cnn/cnn_keras_mnist.ipynb](cnn/keras_cnn_mnist.ipynb)
+- [X] [Keras CNN CIFAR-10 Classification](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+	- [cnn/cnn_cifar10_keras.ipynb](cnn/cnn_cifar10_keras.ipynb)
 
 ## Decision Trees
 
