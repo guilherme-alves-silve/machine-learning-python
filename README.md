@@ -38,6 +38,8 @@
 	- [cnn/cnn_keras_mnist.ipynb](cnn/cnn_keras_mnist.ipynb)
 - [X] [Keras CNN Classification (CIFAR-10)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
 	- [cnn/cnn_keras_cifar10.ipynb](cnn/cnn_keras_cifar10.ipynb)
+- [x] [Keras CNN Classification (Malaria Infection)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+	- [cnn/cnn_keras_cell.ipynb](cnn/cnn_keras_cell.ipynb)
 
 ## Decision Trees
 
