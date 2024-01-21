@@ -93,8 +93,14 @@
 ## Reinforcement Learning
 
 - [X] [Q-Learning implementation (Tic Tac Toe)](https://www.udemy.com/course/introduction-to-machine-learning-in-python)
+	-	 [rf_lr/qlearning/tictactoe](rf_lr/qlearning/tictactoe)
 - [X] [Deep Q-Learning implementation (Tic Tac Toe)](https://www.udemy.com/course/introduction-to-machine-learning-in-python)
+	-	 [rf_lr/deepqlearning/tictactoe](rf_lr/qlearning/tictactoe)
 - [ ] [Learn how to use Reinforcement Learning techniques to create practical Artificial Intelligence programs!](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
+	-	[rf_lr/qlearning/intro_rflr_gym.ipynb](rf_lr/qlearning/intro_rflr_gym.ipynb)
+	- [rf_lr/qlearning/agent_rflr_gym.ipynb](rf_lr/qlearning/agent_rflr_gym.ipynb)
+	- [rf_lr/qlearning/simple_agent_rflr_gym.ipynb](rf_lr/qlearning/simple_agent_rflr_gym.ipynb)
+	- [rf_lr/qlearning/q_learning_rflr_gym.ipynb](rf_lr/qlearning/q_learning_rflr_gym.ipynb)
 - [ ] [Deep RL Course](https://huggingface.co/learn/deep-rl-course)
 - [ ] [Value Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 9)](https://www.youtube.com/watch?v=hUqeGLkx_zs)
 - [ ] [Policy Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 10)](https://www.youtube.com/watch?v=RlugupBiC6w)
