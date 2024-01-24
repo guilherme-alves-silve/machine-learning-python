@@ -101,6 +101,8 @@
 	- [rf_lr/qlearning/agent_rflr_gym.ipynb](rf_lr/qlearning/agent_rflr_gym.ipynb)
 	- [rf_lr/qlearning/simple_agent_rflr_gym.ipynb](rf_lr/qlearning/simple_agent_rflr_gym.ipynb)
 	- [rf_lr/qlearning/q_learning_rflr_gym.ipynb](rf_lr/qlearning/q_learning_rflr_gym.ipynb)
+	- [rf_lr/qlearning/q_learning_continuous_rflr_gym.ipynb](rf_lr/qlearning/q_learning_continuous_rflr_gym.ipynb)
+	- [rf_lr/qlearning/q_learning_exercise.ipynb](rf_lr/qlearning/q_learning_exercise.ipynb)
 - [ ] [Deep RL Course](https://huggingface.co/learn/deep-rl-course)
 - [ ] [Value Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 9)](https://www.youtube.com/watch?v=hUqeGLkx_zs)
 - [ ] [Policy Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 10)](https://www.youtube.com/watch?v=RlugupBiC6w)
