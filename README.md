@@ -23,25 +23,8 @@
 
 - [X] [Machine Learning: Credit Scoring](https://cursos.alura.com.br/course/machine-learning-credit-scoring)
 	- [mlp/machine_learning_credit_scoring.ipynb](mlp/machine_learning_credit_scoring.ipynb)
-- [X] [Keras Regression (Houses Price)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
-	- [mlp/ann_regression_keras.ipynb](mlp/ann_regression_keras.ipynb)
-- [X] [Keras Classification (Cancer)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
-	- [mlp/ann_classification_keras.ipynb](mlp/ann_classification_keras.ipynb)
-- [X] [Keras Classification Exercise (Lending Money)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
-	-	[mlp/ann_keras_project_exercise.ipynb](mlp/ann_keras_project_exercise.ipynb)
 - [ ] [Machine Learning: Aprendizado supervisionado](https://cursos.alura.com.br/course/machine-learning-aprendizado-supervisionado)
 	- .ipynb
-
-## Convolutional Neural Network
-
-- [X] [Keras CNN Classification (MNIST Digits)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
-	- [cnn/cnn_keras_mnist.ipynb](cnn/cnn_keras_mnist.ipynb)
-- [X] [Keras CNN Classification (CIFAR-10)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
-	- [cnn/cnn_keras_cifar10.ipynb](cnn/cnn_keras_cifar10.ipynb)
-- [X] [Keras CNN Classification (Malaria Infection)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
-	- [cnn/cnn_keras_cell.ipynb](cnn/cnn_keras_cell.ipynb)
-- [X] [Keras CNN Classification (Fashion MNIST)](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
-	- [cnn/cnn_keras_project_exercise_fashion_mnist.ipynb](cnn/cnn_keras_project_exercise_fashion_mnist.ipynb)
 
 ## Decision Trees
 
@@ -93,16 +76,8 @@
 ## Reinforcement Learning
 
 - [X] [Q-Learning implementation (Tic Tac Toe)](https://www.udemy.com/course/introduction-to-machine-learning-in-python)
-	-	 [rf_lr/qlearning/tictactoe](rf_lr/qlearning/tictactoe)
 - [X] [Deep Q-Learning implementation (Tic Tac Toe)](https://www.udemy.com/course/introduction-to-machine-learning-in-python)
-	-	 [rf_lr/deepqlearning/tictactoe](rf_lr/qlearning/tictactoe)
 - [ ] [Learn how to use Reinforcement Learning techniques to create practical Artificial Intelligence programs!](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning)
-	-	[rf_lr/qlearning/intro_rflr_gym.ipynb](rf_lr/qlearning/intro_rflr_gym.ipynb)
-	- [rf_lr/qlearning/agent_rflr_gym.ipynb](rf_lr/qlearning/agent_rflr_gym.ipynb)
-	- [rf_lr/qlearning/simple_agent_rflr_gym.ipynb](rf_lr/qlearning/simple_agent_rflr_gym.ipynb)
-	- [rf_lr/qlearning/q_learning_rflr_gym.ipynb](rf_lr/qlearning/q_learning_rflr_gym.ipynb)
-	- [rf_lr/qlearning/q_learning_continuous_rflr_gym.ipynb](rf_lr/qlearning/q_learning_continuous_rflr_gym.ipynb)
-	- [rf_lr/qlearning/q_learning_exercise.ipynb](rf_lr/qlearning/q_learning_exercise.ipynb)
 - [ ] [Deep RL Course](https://huggingface.co/learn/deep-rl-course)
 - [ ] [Value Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 9)](https://www.youtube.com/watch?v=hUqeGLkx_zs)
 - [ ] [Policy Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 10)](https://www.youtube.com/watch?v=RlugupBiC6w)
@@ -110,3 +85,34 @@
   - [Python Snake Game With Pygame - Create Your First Pygame Application](https://www.youtube.com/watch?v=--nsd2ZeYvs)
 - [ ] [Train an AI to Play Super Mario Bros! || Reinforcement Learning Completely from Scratch](https://www.youtube.com/watch?v=_gmQZToTMac)
 - [ ] [Python Reinforcement Learning using Stable baselines. Mario PPO](https://www.youtube.com/watch?v=PxoG0A2QoFs)
+
+## From scratch series - [Patrick Loeber course](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E&index=1&ab_channel=PatrickLoeber)
+
+- [ ] KNN
+  - .py
+- [ ] Linear Regression
+  - .py
+- [ ] Logistic Regression
+  - .py
+- [ ] Linear and Logistic Regression
+  - .py
+- [ ] Naive Bayes
+  - .py
+- [ ] Perceptron
+  - .py
+- [ ] SVM
+  - .py
+- [ ] Decision Tree
+  - .py
+- [ ] Random Forest
+  - .py
+- [ ] PCA
+  - .py
+- [X] K-Means
+  - [scratch/kmeans.ipynb](scratch/kmeans.ipynb)
+- [ ] AdaBoost
+  - .py
+- [ ] LDA (Linear Discriminant Analysis)
+  - .py
+- [ ] How to Load Machine Learning Data From Files
+  - .py
