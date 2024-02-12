@@ -108,6 +108,8 @@
 	- [rf_lr/deepqlearning/deep_q_learning_rflr_gym](rf_lr/deepqlearning/deep_q_learning_rflr_gym.ipynb)
 	- [rf_lr/deepqlearning/deep_q_learning_rflr_gym_keras_rl2.ipynb](rf_lr/deepqlearning/deep_q_learning_rflr_gym_keras_rl2.ipynb)
 	- [rf_lr/deepqlearning/deep_q_learning_rflr_gym_keras_rl2_exercise.ipynb](rf_lr/deepqlearning/deep_q_learning_rflr_gym_keras_rl2_exercise.ipynb)
+	- [rf_lr/deepqlearning/deep_q_learning_image_rflr_gym_keras_rl2.ipynb](rf_lr/deepqlearning/deep_q_learning_image_rflr_gym_keras_rl2.ipynb)
+	- [rf_lr/deepqlearning/deep_q_learning_image_rflr_gym_keras_rl2_exercise.ipynb](rf_lr/deepqlearning/deep_q_learning_image_rflr_gym_keras_rl2_exercise.ipynb)
 - [ ] [Deep RL Course](https://huggingface.co/learn/deep-rl-course)
 - [ ] [Value Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 9)](https://www.youtube.com/watch?v=hUqeGLkx_zs)
 - [ ] [Policy Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 10)](https://www.youtube.com/watch?v=RlugupBiC6w)
