@@ -4,6 +4,6 @@ venv/
 __pycache__/
 rf_lr/deepqlearning/Atari-2600-VCS-ROM-Collection.zip
 rf_lr/deepqlearning/ROMS
-"rf_lr/deepqlearning/HC ROMS"
+rf_lr/deepqlearning/HC*ROMS
 rf_lr/deepqlearning/weights
 rf_lr/deepqlearning/weights_exercise
