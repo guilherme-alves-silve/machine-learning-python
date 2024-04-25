@@ -1,2 +1,2 @@
-model_checkpoint_path: "dqn_pong_weights_student_{step}.h5f"
-all_model_checkpoint_paths: "dqn_pong_weights_student_{step}.h5f"
+model_checkpoint_path: "test_dqn_snake_weights.h5f"
+all_model_checkpoint_paths: "test_dqn_snake_weights.h5f"
