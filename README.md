@@ -105,6 +105,7 @@
 	- [rf_lr/qlearning/q_learning_rflr_gym.ipynb](rf_lr/qlearning/q_learning_rflr_gym.ipynb)
 	- [rf_lr/qlearning/q_learning_continuous_rflr_gym.ipynb](rf_lr/qlearning/q_learning_continuous_rflr_gym.ipynb)
 	- [rf_lr/qlearning/q_learning_exercise.ipynb](rf_lr/qlearning/q_learning_exercise.ipynb)
+	- [rf_lr/qlearning/q_learning_route.ipynb](rf_lr/qlearning/q_learning_route.ipynb)
 	- [rf_lr/deepqlearning/deep_q_learning_rflr_gym](rf_lr/deepqlearning/deep_q_learning_rflr_gym.ipynb)
 	- [rf_lr/deepqlearning/deep_q_learning_rflr_gym_keras_rl2.ipynb](rf_lr/deepqlearning/deep_q_learning_rflr_gym_keras_rl2.ipynb)
 	- [rf_lr/deepqlearning/deep_q_learning_rflr_gym_keras_rl2_exercise.ipynb](rf_lr/deepqlearning/deep_q_learning_rflr_gym_keras_rl2_exercise.ipynb)
@@ -114,8 +115,6 @@
 - [ ] [Deep RL Course](https://huggingface.co/learn/deep-rl-course)
 - [ ] [Value Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 9)](https://www.youtube.com/watch?v=hUqeGLkx_zs)
 - [ ] [Policy Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 10)](https://www.youtube.com/watch?v=RlugupBiC6w)
-- [ ] [Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake](https://www.youtube.com/watch?v=L8ypSXwyBds)
-  - [Python Snake Game With Pygame - Create Your First Pygame Application](https://www.youtube.com/watch?v=--nsd2ZeYvs)
 - [ ] [Train an AI to Play Super Mario Bros! || Reinforcement Learning Completely from Scratch](https://www.youtube.com/watch?v=_gmQZToTMac)
 - [ ] [Python Reinforcement Learning using Stable baselines. Mario PPO](https://www.youtube.com/watch?v=PxoG0A2QoFs)
 
