@@ -1,0 +1,6 @@
+cobertura_vegetal_e_uso_da_terra_2018.geojson
+*.cpg
+*.shp
+*.dbf
+*.prj
+*.shx
