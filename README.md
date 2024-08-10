@@ -115,11 +115,9 @@
 - [X] [Inteligência Artificial aplicada para Empresas e Negócios](https://www.udemy.com/course/inteligencia-artificial-empresas-negocios/)
 	- [rf_lr/qlearning/q_learning_route.ipynb](rf_lr/qlearning/q_learning_route.ipynb)
 	- [rf_lr/deepqlearning/deep_q_learning_server_cost_minimization.ipynb](rf_lr/deepqlearning/deep_q_learning_server_cost_minimization.ipynb)
+	- [rf_lr/mab/thompson_sampling.ipynb](rf_lr/mab/thompson_sampling.ipynb)
+		* mab - Multi Armed Bandit (Thompson Sampling)
 - [ ] [Deep RL Course](https://huggingface.co/learn/deep-rl-course)
-- [ ] [Value Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 9)](https://www.youtube.com/watch?v=hUqeGLkx_zs)
-- [ ] [Policy Iteration Algorithm - Dynamic Programming Algorithms in Python (Part 10)](https://www.youtube.com/watch?v=RlugupBiC6w)
-- [ ] [Train an AI to Play Super Mario Bros! || Reinforcement Learning Completely from Scratch](https://www.youtube.com/watch?v=_gmQZToTMac)
-- [ ] [Python Reinforcement Learning using Stable baselines. Mario PPO](https://www.youtube.com/watch?v=PxoG0A2QoFs)
 
 ## From scratch series - [Patrick Loeber course](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E&index=1&ab_channel=PatrickLoeber)
 
