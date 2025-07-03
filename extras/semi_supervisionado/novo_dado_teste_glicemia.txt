@@ -1,0 +1,8 @@
+novo_dado = {
+    'glicemia':[98],
+    'pressao_sanguinea':[75],
+    'dobra_cutanea_triceps':[29],
+    'insulina':[124],
+    'imc':[24.3],
+    'idade':[34]
+}

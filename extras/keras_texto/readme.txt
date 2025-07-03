@@ -1,0 +1,1 @@
+https://github.com/alura-cursos/curso-tensorflow-proxima-palavra/tree/main/projeto_Aula5
